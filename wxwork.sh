@@ -1,5 +1,5 @@
-## 查看占用情况
-du -h -d 1 ~/Library/Containers/com.tencent.WeWorkMac/Data/Library
+## 查看企业微信磁盘占用情况
+du -h -d 1 ~/Library/Containers/com.tencent.WeWorkMac/Data
 
 ## 查看某个用户下的文件占用
 du -h -d 1 ~/Library/Containers/com.tencent.WeWorkMac/Data/Library/Application\ Support/WXWork/Data
